@@ -1,0 +1,21 @@
+#img-2 {
+	width: 100%;
+	position: absolute;
+
+}
+
+#img-3{
+	width: 20%;
+	position: relative;
+	z-index: 1;
+	top: 300px;
+	left: 400px;
+}
+
+#img-4{
+	width: 20%;
+	position: relative;
+	z-index: 1;
+	top: 500px;
+	left: 800px;
+}

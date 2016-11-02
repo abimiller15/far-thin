@@ -1,0 +1,54 @@
+body {
+	background: url("../images/now/chicago-now/screen-shot.png");
+	background-size: 100%;
+	background-repeat: no-repeat; 
+	background-position: relative;
+}
+
+#img-2 {
+	left: -10px;
+	width: 45%;
+	position: relative;
+
+}
+
+#img-3{
+	width: 10%;
+	position: absolute;
+	top:70%;
+	left: 30%;
+}
+
+#img-4 {
+	width: 10%;
+	position: absolute;
+	top: 80%;
+	right: 25%;
+}
+
+#img-5{
+	width: 5%;
+	position: absolute;
+	top: 50%;
+	left: 40%;
+}
+
+#img-6{
+	width: 10%;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+#img-7{
+	position: absolute;
+	width: 7%;
+	bottom: 0px;
+	right: 0px;
+}
+
+audio {
+	bottom: 0px;
+	left: 0px;
+	position: absolute;
+}
